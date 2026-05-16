@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor Collington
-- 👀 I’m interested in: Networking, Game Design, Artificial Intelligence, Control Systems, and Communications. 
-- 🌱 I’m currently learning: Python For Control Systems, And PyTorch.
+- 👀 I’m interested in: Graphics, 3D Rendering, Machine Learning (Forecast & Super-resolution applications_
+- 🌱 I’m currently learning: Typescript with Three for UI, Tensor Flow & PyTorch
 - 💞️ I’m looking to collaborate on: Currently Unavailable
 - 📫 How to reach me: ccollington@torontomu.ca
 
